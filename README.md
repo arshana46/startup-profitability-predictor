@@ -34,5 +34,4 @@ This tool is ideal for **entrepreneurs, investors, and analysts** who want to qu
    - Can easily add batch CSV predictions in future updates.
    - Encoders and model are saved with **pickle** for reusability.
 
-cd startup-profitability-predictor
 
